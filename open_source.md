@@ -11,6 +11,7 @@ permalink: /open_source/
 OVOX uses Ruby on Rails, JavaScript and React.js frontend components, Redux flow for managing the store and updating components, BCrypt for authentication, PostgreSQL database, Paperclip GEM for handling file attachments, AWS S3 for storing user generated tracks and images, and HTML5 Audio for track play/pause actions.
 
 [live](http://ovox.herokuapp.com/)
+
 [github](http://github.com/Masoule/OVOX)
 
 <div class="divider"></div>
@@ -21,6 +22,7 @@ An interactive timeline of the world conflicts since 1400. Conflicts and the num
 ConflictMap is developed using D3.js library for data visualization and HTML/CSS UI.
 
 [live](https://masoule.github.io/ConflictMap/)
+
 [github](https://github.com/Masoule/ConflictMap)
 
 
@@ -29,6 +31,6 @@ ConflictMap is developed using D3.js library for data visualization and HTML/CSS
 #### Wheels
 A metaprogramming attempt to imitate Rails magic. Wheels manages HTTP request and response to the server, generates session cookies, builds routes and includes a controller base managing the views.
 
-[github])(http://github.com/Masoule/Wheels)
+[github](http://github.com/Masoule/Wheels)
 
 <div class="divider"></div>
