@@ -3,8 +3,7 @@ layout: page
 title: Product
 permalink: /product/
 ---
-##Product
-A selection of products I managed.
+A selection of software products I managed.
 
 
 #### Extractor software
