@@ -1,8 +1,15 @@
 ---
+layout: post
+title: "Design"
+description: "..."
+keywords: "design, UI, UX"
+---
+
+<!-- ---
 layout: page
 title: Design
 permalink: /design/
----
+--- -->
 
 #### Toranj
 
