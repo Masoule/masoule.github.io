@@ -2,6 +2,7 @@
 layout: post
 title: "Design"
 description: "..."
+comments: true
 keywords: "design, UI, UX"
 ---
 
