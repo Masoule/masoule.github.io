@@ -8,7 +8,9 @@ A selection of software products I managed.
 
 #### Extractor software
 A native app that facilitates data transfer in satellite datacasting technology. Users can use the extractor software to decode the incoming satellite TS stream and extract embedded digital files placed therein.
-Read more on The Wired, PC Magazine, Le Monde.  
+Read more on [The Wired](#), [PC Magazine](#), [Le Monde](#).  
+
+
 
 <div class="divider"></div>
 
