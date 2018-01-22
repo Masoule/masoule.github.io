@@ -4,19 +4,22 @@ title: Design
 permalink: /design/
 ---
 
-#### Technologies
-Ruby, Rails, JavaScript, React.js, Redux, D3.js, SQL, PostgreSQL, AWS, REST, HTML5/CSS3, Webpack
+#### Toranj
+
+An Android App for urgent reporting of domestic violence incidents.
+
+Read about it on Forbes
+
 
 <div class="divider"></div>
 
-#### Design
-Sketch, Adobe InDesign, Zeplin, InVision, Google Meterial design
+#### Balatarin Android App
+Balatarin, aka Persian Reddit, is the largest Persian interactive link-sharing news website with over 10 million monthly pageviews.
 
 <div class="divider"></div>
 
-#### Product
-Lifecycle Management, Roadmaps, Product Launch, Agile,Scrum, AB Testing, Rapid Prototyping.
-Asana, Trello, Github, Jira, Google Analytics, Google data studio
+#### File Viewer
+An offline browser for organizing and viewing digital educational content.
 
 
 <div class="divider"></div>
