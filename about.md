@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Technologies
+#### Technologies
 Ruby, Rails, JavaScript, React.js, Redux, D3.js, SQL, PostgreSQL, AWS, REST, HTML5/CSS3, Webpack
 
 
-Design
+#### Design
 Sketch, Adobe InDesign, Zeplin, InVision, Google Meterial design
 
 
-Product
+#### Product
 Lifecycle Management, Roadmaps, Product Launch, Agile,Scrum, AB Testing, Rapid Prototyping.
 Asana, Trello, Github, Jira, Google Analytics, Google data studio
 
