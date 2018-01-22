@@ -4,13 +4,9 @@ layout: default
 
 <article class="page container">
   <header class="page-header">
-    <h1 class="page-title">{{ OVOX music streaming app}}</h1>
+    <h1 class="page-title">{{ page.title }}</h1>
   </header>
   <div class="page-content">
-    <p><a >OVOX</a>a Soundcloud clone, is a social media application that allows sound producers to upload and publicly share streamable audio tracks. Users can create profiles, continuously play, like, and comment on tracks.</p>
-
-    <p>OVOX uses Ruby on Rails, JavaScript and React.js frontend components, Redux flow for managing the store and updating components, BCrypt for authentication, PostgreSQL database, Paperclip GEM for handling file attachments, AWS S3 for storing user generated tracks and images, and HTML5 Audio for track play/pause actions.</p>
-    <a>live</a>
-    <a>github</a>
+    {{ content }}
   </div>
 </article>
