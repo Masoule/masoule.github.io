@@ -58,8 +58,8 @@ navbar:
     title: Open Source
   - slug : product
     title: Product
-  # - slug : design
-  #   title: Design
+  - slug : design
+    title: Design
 
   # - slug : blog
   #   title: Blog
