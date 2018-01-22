@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Open Source Projects
+permalink: /open_source/
 ---
 
 #### Technologies
