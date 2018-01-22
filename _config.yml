@@ -1,0 +1,60 @@
+
+# SEO settings
+title: "Salome siavoshi"
+title2: "software developer" # default: ""
+description: "portofolio site"
+keywords: "software developer, fullstack developer, ruby, ruby on rails, javascript, react.js, redux, d3.js"
+url: http://www.salome.tech # site url
+baseurl: ""
+# apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+google_analytics: UA-XXXXX-XX
+repo: http://github.com/masoule/portfolio
+disqus_shortname: ""
+twitter_username: ""
+comments: true
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Salome Siavoshi"
+  job      : "Software Engineer"
+  bio      : "I enjoy creating meaningful and user-friendly software products."
+  thumb    : /images/author.jpg
+  email    : salomei@gmail.com
+  url      : http://masoule.github.io
+  github   : http://github.com/masoule
+  twitter  : ""
+  facebook : ""
+  linkedin : http://linkedin.com/in/siavoshi
+
+# social settings
+og_locale: "en_US"
+twitter_card: ""
+twitter_site: ""
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
