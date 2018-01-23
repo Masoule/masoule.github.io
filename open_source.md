@@ -4,10 +4,10 @@ title: Open Source Projects
 permalink: /open_source/
 ---
 
-<div class="columns-1-3">
-<div>col 1</div>
-<div>col 2</div>
-<div>col 3</div>
+<div class="columns">
+<div class="column-1-3">col 1</div>
+<div class="column-1-3">col 2</div>
+<div class="column-1-3">col 3</div>
 </div>
 
 #### OVOX
