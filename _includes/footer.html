@@ -2,15 +2,17 @@
   <div class="container">
     <div class="columns">
       <div class="column-1-3">
-        {{ site.time | date: '%Y' }} {{ site.author.name | site.author.email }}
+        <!-- {{ site.time | date: '%Y' }} {{ site.author.name | site.author.email }} -->
       </div>
       <div class="column-1-3">
         {{site.author.email}}
+        <br>
         {{site.author.phone}}
       </div>
+
       <div class="column-1-3">
-        {{site.author.github}}
-        {{site.author.linkedin}}
+        <a href='http://github.com/Masoule'>Github</a>
+        <a href='http://www.linkedin.com/in/siavoshi/'>LinkedIn</a>
       </div>
 
     </div>
