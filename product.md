@@ -3,7 +3,13 @@ layout: page
 title: Product and Design
 permalink: /product/
 ---
-I managed the development of a variety of consumer facing web and native products.
+I have designed and managed the development of a variety of consumer facing web and native products.
+
+
+<div class="divider"></div>
+
+A selection of software products I designed.
+
 
 <div class="columns">
   <div class="column-1-3">
@@ -11,7 +17,8 @@ I managed the development of a variety of consumer facing web and native product
       A native app that facilitates data transfer in <a href="http://knapsackforhope.org/filecasting/">satellite datacasting technology</a>.
       <br>
       <br>
-      Read more on
+      Read more:
+      <br>
       <a href="http://www.wired.com/2016/04/ingenious-way-iranians-using-satellite-tv-beam-banned-data/">The Wired</a><br>
       <a href="http://www.pcmag.com/news/343972/toosheh-uses-satellite-tv-to-sneak-content-past-iranian-cens">PC Magazine</a><br>
       <a href="http://www.lemonde.fr/pixels/article/2016/04/04/toosheh-une-nouvelle-technologie-pour-contourner-la-censure-en-iran_4894938_4408996.html">Le Monde</a>
@@ -36,7 +43,7 @@ I managed the development of a variety of consumer facing web and native product
 
 <div class="divider"></div>
 
-A selection of software products I designed.
+A selection of software products I designed
 
 <div class="columns">
   <div class="column-1-3">
@@ -48,6 +55,7 @@ A selection of software products I designed.
     <br>
     <br>
     <a href="https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/janetwburns/2017/11/02/this-free-app-is-helping-women-tackle-domestic-violence-iran-and-worldwide/&refURL=http://www.salome.tech/Design&referrer=http://www.salome.tech/Design#1794c23493cc">Read about it on Forbes</a>
+    <br>
     <br>
     <a href="http://play.google.com/store/apps/details?id=org.netfreedompioneers.toranj&hl=en">Google Play</a>
 
