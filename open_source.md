@@ -4,12 +4,6 @@ title: Open Source Projects
 permalink: /open_source/
 ---
 
-<div class="columns">
-<div class="column-1-3">col 1</div>
-<div class="column-1-3">col 2</div>
-<div class="column-1-3">col 3</div>
-</div>
-
 #### OVOX
 
 [OVOX](http://ovox.herokuapp.com/) a Soundcloud clone, is a social media application that allows sound producers to upload and publicly share streamable audio tracks. Users can create profiles, continuously play audio tacks and like and comment on tracks.
