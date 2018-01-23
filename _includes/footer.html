@@ -1,6 +1,23 @@
 <footer class="site-footer">
   <div class="container">
-    <small class="block">&lt;/&gt;
-      <i class="fa fa-copyright"></i> {{ site.time | date: '%Y' }} {{ site.author.name | site.author.email }}</small>
+    <div class="columns">
+      <div class="column-1-3">
+        {{ site.time | date: '%Y' }} {{ site.author.name | site.author.email }}
+      </div>
+      <div class="column-1-3">
+        {{site.author.email}}
+        {{site.author.phone}}
+      </div>
+      <div class="column-1-3">
+        {{site.author.github}}
+        {{site.author.linkedin}}
+      </div>
+
+    </div>
+
+    <!-- <small class="block">&lt;/&gt;
+      <i class="fa fa-copyright"></i> {{ site.time | date: '%Y' }} {{ site.author.name | site.author.email }}
+    </small> -->
+
   </div>
 </footer>

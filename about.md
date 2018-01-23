@@ -8,16 +8,14 @@ permalink: /about/
 
 ### Skills
 
-#### Technologies
+##### Technologies
 Ruby, Rails, JavaScript, React.js, Redux, D3.js, SQL, PostgreSQL, AWS, REST, HTML5/CSS3, Webpack, Babel
 
 
-#### Design
+##### Design
 Sketch, Adobe InDesign, Zeplin, InVision, Google Material design
 
-<div class="divider"></div>
-
-#### Product
+##### Product
 Lifecycle Management, Roadmaps, Product Launch, Agile,Scrum, AB Testing, Rapid Prototyping.
 Asana, Trello, Github, Jira, Google Analytics, Google data studio
 
