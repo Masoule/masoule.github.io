@@ -312,3 +312,9 @@ hr {
   width: 30%;
   margin: 2%;
 }
+
+
+::selection {
+    background-color: $light-blue-color;
+    color: $blue-color;
+}
