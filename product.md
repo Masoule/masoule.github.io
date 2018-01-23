@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Product
+title: Product and Design
 permalink: /product/
 ---
-A selection of software products I managed.
+I managed the development of a variety of software products. Here is a few.
 
 <div class="columns">
   <div class="column-1-3">
@@ -43,15 +43,17 @@ A Content Management System allowing online publishers to automate the discovery
 
 <div class="divider"></div>
 
+A selection of software products I designed.
+
 <div class="columns">
   <div class="column-1-3">
     <h4>Toranj</h4>
 
-    An Android App for urgent reporting of domestic violence incidents.
+    An Android App for urgent reporting of domestic violence incidents. Toranj includes a solid database of educational content, prefilled legal forms, and available services for empowering women against domestic violence.
 
-    [Read about it on Forbes](https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/janetwburns/2017/11/02/this-free-app-is-helping-women-tackle-domestic-violence-iran-and-worldwide/&refURL=http://www.salome.tech/Design&referrer=http://www.salome.tech/Design#1794c23493cc)
+    <a src="https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/janetwburns/2017/11/02/this-free-app-is-helping-women-tackle-domestic-violence-iran-and-worldwide/&refURL=http://www.salome.tech/Design&referrer=http://www.salome.tech/Design#1794c23493cc">Read about it on Forbes<a>
 
-    [Google Play](http://play.google.com/store/apps/details?id=org.netfreedompioneers.toranj&hl=en)
+    <a src="http://play.google.com/store/apps/details?id=org.netfreedompioneers.toranj&hl=en">Google Play<a>
 
   </div>
 
