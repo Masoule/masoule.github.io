@@ -19,19 +19,26 @@ Sketch, Adobe InDesign, Zeplin, InVision, Google Material design
 Lifecycle Management, Roadmaps, Product Launch, Agile,Scrum, AB Testing, Rapid Prototyping.
 Asana, Trello, Github, Jira, Google Analytics, Google data studio
 
+<div class="columns">
 
-<div class="divider"></div>
-### education
+  <div class='column-1-2'>
+    <h3>Education<h3>
+  </div>
 
-Northeastern University | Spring 2011
-PhD Nanotechnology
+  <div class='column-1-2'>
 
-Clark University | Summer 2004
-MS Physics
+    <h4>PhD Nanotechnology</h4>
+    Northeastern University | Spring 2011
 
-Sharif University of Technology | Fall 2001
-BS Physics
+    <h4>MS Physics</h4>
+    Clark University | Summer 2004
 
+    <h4>BS Physics</h4>
+    Sharif University of Technology | Fall 2001
 
-<div class="divider"></div>
-### experience
+  </div>
+
+</div>
+
+<!-- <div class="divider"></div> -->
+<!-- ### experience -->
