@@ -29,15 +29,19 @@ Asana, Trello, Github, Jira, Google Analytics, Google data studio
 
     <h4>PhD Nanotechnology</h4>
     Northeastern University | Spring 2011
-
+    <br>
     <h4>MS Physics</h4>
     Clark University | Summer 2004
-
+    <br>
     <h4>BS Physics</h4>
     Sharif University of Technology | Fall 2001
 
   </div>
 
+</div>
+
+<div class=''>
+<h3>Academic Publications<h3>
 </div>
 
 <!-- <div class="divider"></div> -->

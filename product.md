@@ -8,8 +8,7 @@ I have designed and managed the development of a variety of consumer facing web 
 
 <div class="divider"></div>
 
-A selection of software products I designed.
-
+A selection of the products I managed
 
 <div class="columns">
   <div class="column-1-3">
