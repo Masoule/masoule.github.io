@@ -20,8 +20,8 @@ Lifecycle Management, Roadmaps, Product Launch, Agile,Scrum, AB Testing, Rapid P
 Asana, Trello, Github, Jira, Google Analytics, Google data studio -->
 
 <div class="divider"></div>
-<div class="columns">
 
+<div class="columns">
   <div class="column-1-2">
     <h3>Education<h3>
   </div>
